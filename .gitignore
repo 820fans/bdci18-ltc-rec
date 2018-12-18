@@ -1,0 +1,4 @@
+*.csv
+xgbmodel/
+.ipynb_checkpoints
+_not_commit/
